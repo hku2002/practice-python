@@ -15,4 +15,8 @@ print('A', 'B', 'C', 'D', 'E', sep='')
 
 print()
 
+# end
+print('Hello', end=' ')
+print('World', end='')
 
+print()
