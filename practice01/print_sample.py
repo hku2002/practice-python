@@ -20,3 +20,11 @@ print('Hello', end=' ')
 print('World', end='')
 
 print()
+
+# format
+# d: 정수
+# s: 문자열
+# f: 실수
+print('%d %d' % (1, 2))
+print('{} {}'.format ('Hello', 'World'))
+print('{1} {0}'.format ('second', 'first'))
