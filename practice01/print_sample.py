@@ -28,3 +28,12 @@ print()
 print('%d %d' % (1, 2))
 print('{} {}'.format ('Hello', 'World'))
 print('{1} {0}'.format ('second', 'first'))
+
+print()
+
+# 자릿수 확보
+print('%10s' % ('hello'))
+print('{:>10}'.format('hello'))
+
+print('%-10s' % ('hello'))
+print('{:10}'.format('hello'))
