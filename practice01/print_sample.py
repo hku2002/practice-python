@@ -37,3 +37,6 @@ print('{:>10}'.format('hello'))
 
 print('%-10s' % ('hello'))
 print('{:10}'.format('hello'))
+
+# 중앙정렬
+print('{:^10}'.format('hello'))
