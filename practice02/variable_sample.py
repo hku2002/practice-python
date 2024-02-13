@@ -1,22 +1,24 @@
 # 파이썬 변수
 
-# 기본 선언
+print('기본 선언')
 n = 700
 print(n)
 print(type(n))
+print()
 
-# 동시 선언
+print('동시 선언')
 x = y = z = 700
 print(x, y, z)
 print()
 
-# 선언 및 재선언
+print('선언 및 재선언')
 var = 75
 var = 'str'
 print(var)  # str
 print(type(var))  # class 'str'
 print()
 
+print('Object References')
 # Object References
 # 변수 할당 상태
 # 1. 타입에 맞는 오브젝트 생성
@@ -29,6 +31,7 @@ print(int(300))
 print()
 
 # id 확인
+print('id 확인')
 m = 800
 n = 655
 
