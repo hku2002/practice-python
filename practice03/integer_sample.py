@@ -31,3 +31,13 @@ print(type(list1))
 print(type(dict1))
 print(type(tuple1))
 print(type(set1))
+
+# 숫자형 연산자
+"""
++ : 더하기
+- : 빼기
+* : 곱하기
+/ : 나누기
+// : 몫
+% : 나머지
+"""
