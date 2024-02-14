@@ -10,3 +10,20 @@ tuple: 튜플(시퀀스
 set: 집합
 dict: 사전
 """
+
+# 데이터 타입
+str1 = "sample1"
+str2 = 'sample2'
+bool1 = True
+float1 = 10.0
+int1 = 10
+list1 = [str1, str2]
+dict1 = {'name': 'python', 'version': 1.0}
+
+print(type(str1))
+print(type(str2))
+print(type(bool1))
+print(type(float1))
+print(type(int1))
+print(type(list1))
+print(type(dict1))
