@@ -19,6 +19,8 @@ float1 = 10.0
 int1 = 10
 list1 = [str1, str2]
 dict1 = {'name': 'python', 'version': 1.0}
+tuple1 = ('hello', 'world')
+set1 = {1, 2, 3}
 
 print(type(str1))
 print(type(str2))
@@ -27,3 +29,5 @@ print(type(float1))
 print(type(int1))
 print(type(list1))
 print(type(dict1))
+print(type(tuple1))
+print(type(set1))
