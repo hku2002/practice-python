@@ -14,3 +14,8 @@ str_empty2 = str()
 
 print(type(str_empty1), len(str_empty1))
 print(type(str_empty2), len(str_empty2))
+print()
+
+print("I'm sample!")
+print('I\'m sample!')
+print('Hello \t World')
