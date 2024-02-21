@@ -11,3 +11,8 @@ print(c)
 print(len(c))
 print(d)
 print(e)
+
+# 인덱싱
+print('===============')
+print('d[0]: ', d[0])
+print('e[0] + e[2][1]: ', e[0] + e[2][1])
