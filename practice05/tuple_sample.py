@@ -21,3 +21,11 @@ print(type(list(e)))
 
 print(e.index(2))
 print(e.count(2))
+
+# packing
+sample = ('a', 'b', 'c', 'd')
+print(sample)
+
+# unpacking
+(a1, b1, c1, d1) = sample
+print(a1, b1, c1, d1)
