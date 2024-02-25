@@ -29,3 +29,13 @@ print(sample)
 # unpacking
 (a1, b1, c1, d1) = sample
 print(a1, b1, c1, d1)
+
+t1 = 1, 2, 3
+t2 = 2,
+x1, x2, x4 = t1
+y1, y2, y4 = 4, 5, 6
+
+print(t1)
+print(t2)
+print(x2)
+print(y2)
