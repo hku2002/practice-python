@@ -16,3 +16,5 @@ print(d)
 print(e[2])
 print(e[0] + e[1])
 print(e[:2])
+
+print(type(list(e)))
